@@ -1,0 +1,3 @@
+/home/xusheng01/CMakeTest03/build/CMakeFiles/rebuild_cache.dir
+/home/xusheng01/CMakeTest03/build/CMakeFiles/hello.dir
+/home/xusheng01/CMakeTest03/build/CMakeFiles/edit_cache.dir

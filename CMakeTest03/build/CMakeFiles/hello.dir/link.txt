@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/hello.dir/hello.cpp.o  -o hello  -L/home/xusheng01/CMakeTest03/lib -Wl,-rpath,/home/xusheng01/CMakeTest03/lib -lmath 
